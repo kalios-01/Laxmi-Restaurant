@@ -1,0 +1,40 @@
+dal fry	60
+dal tadka	80
+mung masala	80
+masoor masala	80
+chana masala	80
+sev bhaji	80
+rajma masala	80
+aaloo gobhi masala	80
+bhindi masala	80
+karela masala	80
+mix vegetable	80
+aaloo matar	80
+aaloo palak	80
+plain palak	80
+baigan masala	90
+gajar matar masala	120
+dahi fry	100
+SEV DOODH	90
+SEV TOMATO	80
+AALOO SOYABEEN MASALA	90
+AALOO GOBHI FRY	
+BHINDI FRY	
+KARELA FRY	
+AALOO JEERA	
+GREEN PEAS MALASA	
+AALOO SHIMLA	
+KADHI PAKODA	
+BAIGAN BHARTA	
+GAJAR MATAR FRY	
+AALOO SOYABEEN FRY	
+DAL MAKHNI	
+GREEN PEAS FRY	
+VEG KOLHAPURI	
+VEG TOHFAANI	
+VEG HANDI	
+AALOO DUM	
+VEG MAKHAN WALA	
+MALAI KOFTA	
+PUNJABI THALI	
+KAJU KADHI	
